@@ -1,0 +1,6 @@
+﻿aiogram==3.*
+fastapi==0.112.*
+uvicorn==0.30.*
+gspread==5.12.*
+google-auth==2.34.*
+python-dotenv==1.0.*
