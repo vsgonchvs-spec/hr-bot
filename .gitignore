@@ -1,0 +1,12 @@
+﻿# Env
+.env
+
+# Keys / секреты
+*.json
+google-sa.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
